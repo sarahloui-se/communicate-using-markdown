@@ -20,3 +20,8 @@ Indent with at least 4 spaces/1 tab, just like below:
       <head>
       </head>
     </html>
+
+# Task lists
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
